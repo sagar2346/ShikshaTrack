@@ -1,4 +1,4 @@
-# ShikshaTrack (शिक्षाट्र्याक)
+# ShikshaTrack
 
 ShikshaTrack is a clean, modern, and professional **Student Result Management Web Application** designed on the **MERN** stack but built **without a database** (utilizing an in-memory Express data storage mechanism). It features a beautiful, responsive user interface styled with vanilla CSS variables and imports Google Fonts (Poppins & Inter).
 
