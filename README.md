@@ -4,14 +4,14 @@ ShikshaTrack is a clean, modern, and professional **Student Result Management We
 
 ---
 
-## 🚀 Active Development Servers
+## Active Development Servers
 
 - **Express REST API Backend**: Served on [http://localhost:5000](http://localhost:5000)
 - **Vite React Frontend SPA**: Served on [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🛠️ Features Summary
+Features Summary
 
 - **In-Memory Storage Registry**: Store, update, and manage student records and subject grades in Express plain JavaScript arrays. Data resets on server restart.
 - **Auto-Calculating Letter Grades**: Live calculation preview as you type numerical marks (0-100) based on the grading system (A+, A, B+, B, C, D, F).
@@ -22,7 +22,7 @@ ShikshaTrack is a clean, modern, and professional **Student Result Management We
 
 ---
 
-## 📂 Project Architecture
+Project Architecture
 
 ```
 /ShikshaTrack
@@ -55,7 +55,7 @@ ShikshaTrack is a clean, modern, and professional **Student Result Management We
 
 ---
 
-## 🧑‍💻 Seeding Mock Data
+## Seeding Mock Data
 
 To enable immediate testing of analytics cards, charts, and table lists, the in-memory arrays come pre-seeded with **6 authentic Nepali student profiles** and **18 subject results**:
 - **Ram Prasad Devkota** (Roll: 101, Class: 10th, Sec: A)
